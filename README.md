@@ -13,7 +13,8 @@ If anyone unknown comes into the frame, it will be sent as a message to whoever 
 - Httpslib
 
 # Sources
-code based off of https://docs.opencv.org/4.x/dc/d3a/classcv_1_1viz_1_1Camera.html
+Background Resources:
+https://docs.opencv.org/4.x/dc/d3a/classcv_1_1viz_1_1Camera.html
 and https://github.com/GeorgeSeif/Face-Recognition/blob/master/VideoFaceDetector.cpp
 and https://towardsdatascience.com/face-detection-models-which-to-use-and-why-d263e82c302c
 and https://docs.opencv.org/3.4/da/d60/tutorial_face_main.html and https://github.com/gursewaks056/FaceDetectionUsingCPP/blob/master/FD.cpp
