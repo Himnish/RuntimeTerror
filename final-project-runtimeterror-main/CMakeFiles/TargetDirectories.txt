@@ -1,3 +1,0 @@
-/home/vagrant/src/final-project-runtimeterror-1/CMakeFiles/edit_cache.dir
-/home/vagrant/src/final-project-runtimeterror-1/CMakeFiles/rebuild_cache.dir
-/home/vagrant/src/final-project-runtimeterror-1/CMakeFiles/OpenCVFaceDetectorCPP.dir
