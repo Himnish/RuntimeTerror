@@ -1,5 +1,4 @@
 # Home Security - RuntimeTerror
-Himnish Jain, Om Chhabra, Sahith Thummalapally, Yujie Miao
 
 ## Overview
 What this system does is turn any old devices into a home security system. What it does is that, if the user approves, it will continually record and analyze the video feed from either the camera’s laptop or any inserted webcam. Whenever an alert is detected, it will ring an alarm and message the owner who gets a photo/video and details of the recorded event. Additionally, the user will be able to remotely control the system, change modes, and see recent alerts. The user can also control this using Alexa. 
